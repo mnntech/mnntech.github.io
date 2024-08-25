@@ -1,6 +1,6 @@
 #Landy
 
-**A flexible one-page fully responsive HTML template for your app**
+**A flexible one-page fully responsive HTML template for your app.**
 
 This documentation will guide you through the basic functions of the template. Although the template is designed for a maximum ease of use, this guide it is not intended to teach HTML or CSS and you will require basic knowledge of both in order to customize the template to your liking.
 
